@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-certificado",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "37eb7fb0-23e1-48a3-b0c4-c2110cb2e882",
+			"database_name": "medico_pro"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
